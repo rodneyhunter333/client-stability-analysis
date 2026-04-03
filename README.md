@@ -94,3 +94,8 @@ Based on the analysis, I would recommend:
 - Improving data collection around program participation, case management, and support services
 - Prioritizing early interventions for low-income clients with multiple risk indicators
 - Combining model outputs with practitioner expertise to guide client support strategies
+## Project Files
+- `client_stability_analysis.ipynb` – main analysis notebook
+- `README.md` – project summary
+
+> Note: Raw data files are not included in this repository for privacy and confidentiality reasons.
