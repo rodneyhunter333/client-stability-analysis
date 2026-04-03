@@ -11,3 +11,19 @@ This project explores the following questions:
 - How do ACEs, victimization history, and demographic characteristics relate to housing stability?
 - Which client-level factors appear most associated with stay length?
 - Can predictive modeling help explain or estimate housing stability outcomes?
+## Data
+This analysis uses merged client-level data from multiple Excel sources, including:
+- Client housing and demographic records
+- ACEs survey responses
+- Victimization survey responses
+
+After merging and preprocessing, the dataset included variables related to:
+- Stay length
+- Age
+- Entry and latest income
+- Education
+- Race and sex
+- Disability and veteran status
+- Domestic violence indicators
+- ACEs total score
+- Victimization history
