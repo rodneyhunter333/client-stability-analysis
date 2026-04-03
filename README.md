@@ -47,3 +47,12 @@ To prepare the data for analysis, I:
 - Replaced invalid negative values in stay length
 - Created new variables such as income change, education group, race group, age group, ACE risk category, and income level
 - Addressed missing values through imputation during model building
+## Exploratory Data Analysis
+I used exploratory analysis and visualizations to examine:
+- The distribution of stay length
+- The relationship between ACEs total score and stay length
+- Differences in stay length across education groups
+- Correlations among stay length, age, income, and ACEs
+- Risk patterns across income and demographic variables
+
+These analyses helped identify broad patterns in the data and informed the feature selection process for modeling.
