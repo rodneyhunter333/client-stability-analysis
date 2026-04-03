@@ -56,3 +56,28 @@ I used exploratory analysis and visualizations to examine:
 - Risk patterns across income and demographic variables
 
 These analyses helped identify broad patterns in the data and informed the feature selection process for modeling.
+## Modeling Approach
+I built and compared two regression models to estimate stay length:
+- Linear Regression
+- Random Forest Regressor
+
+### Model Features
+The models included variables such as:
+- ACEs total score
+- Age at last entry
+- Entry income
+- Income change
+- Sex
+- Race group
+- Education group
+- Disability status
+- Domestic violence indicator
+- Veteran status
+
+### Model Results
+| Model | MAE | RMSE | R² |
+|------|-----|------|----|
+| Linear Regression | 758.85 | 1158.75 | -0.021 |
+| Random Forest | 661.19 | 1081.44 | 0.11 |
+
+The Random Forest model outperformed linear regression, suggesting that relationships in the data were non-linear and that a more flexible model was better suited for the problem.
