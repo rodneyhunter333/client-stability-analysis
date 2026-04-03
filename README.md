@@ -81,3 +81,9 @@ The models included variables such as:
 | Random Forest | 661.19 | 1081.44 | 0.11 |
 
 The Random Forest model outperformed linear regression, suggesting that relationships in the data were non-linear and that a more flexible model was better suited for the problem.
+## Key Findings
+- Housing stability was only partially predictable using the available variables
+- Random Forest performed better than linear regression, indicating non-linear relationships in the data
+- ACEs and victimization history contributed useful context, but were not strong standalone predictors
+- Income-related and demographic variables appeared to be more informative than trauma-related variables alone
+- The relatively low R² suggests that important drivers of housing stability were not captured in the dataset
