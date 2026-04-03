@@ -27,3 +27,13 @@ After merging and preprocessing, the dataset included variables related to:
 - Domestic violence indicators
 - ACEs total score
 - Victimization history
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+- Excel
+- Tableau
