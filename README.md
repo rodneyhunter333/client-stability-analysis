@@ -99,3 +99,10 @@ Based on the analysis, I would recommend:
 - `README.md` – project summary
 
 > Note: Raw data files are not included in this repository for privacy and confidentiality reasons.
+## Next Steps
+Future improvements could include:
+- Adding more program-level and case management variables
+- Testing classification models for positive versus negative housing outcomes
+- Building an interactive Tableau dashboard for stakeholder reporting
+- Exploring feature importance in more detail
+- Expanding the project with larger datasets for stronger predictive performance
