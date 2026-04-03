@@ -106,3 +106,5 @@ Future improvements could include:
 - Building an interactive Tableau dashboard for stakeholder reporting
 - Exploring feature importance in more detail
 - Expanding the project with larger datasets for stronger predictive performance
+## Author 
+Rodney Hunter
