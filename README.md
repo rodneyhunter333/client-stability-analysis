@@ -37,3 +37,13 @@ After merging and preprocessing, the dataset included variables related to:
 - Jupyter Notebook
 - Excel
 - Tableau
+
+## Data Cleaning & Preparation
+To prepare the data for analysis, I:
+- Loaded and reviewed multiple Excel sheets containing client, ACEs, and victimization data
+- Standardized column names across datasets
+- Merged the files using a shared client ID
+- Converted numeric fields such as stay length, age, and income into usable formats
+- Replaced invalid negative values in stay length
+- Created new variables such as income change, education group, race group, age group, ACE risk category, and income level
+- Addressed missing values through imputation during model building
