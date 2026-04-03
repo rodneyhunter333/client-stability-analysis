@@ -87,3 +87,10 @@ The Random Forest model outperformed linear regression, suggesting that relation
 - ACEs and victimization history contributed useful context, but were not strong standalone predictors
 - Income-related and demographic variables appeared to be more informative than trauma-related variables alone
 - The relatively low R² suggests that important drivers of housing stability were not captured in the dataset
+## Business Recommendations
+Based on the analysis, I would recommend:
+- Using predictive analytics as a support tool rather than a standalone decision-maker
+- Identifying clients through multi-factor risk profiles instead of relying on a single variable
+- Improving data collection around program participation, case management, and support services
+- Prioritizing early interventions for low-income clients with multiple risk indicators
+- Combining model outputs with practitioner expertise to guide client support strategies
