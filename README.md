@@ -56,6 +56,19 @@ I used exploratory analysis and visualizations to examine:
 - Risk patterns across income and demographic variables
 
 These analyses helped identify broad patterns in the data and informed the feature selection process for modeling.
+## Visualizations
+
+### Stay Length Distribution
+![Stay Length Distribution](visuals/stay_length_distribution.png)
+
+### ACEs vs Stay Length
+![ACEs vs Stay Length](visuals/aces_vs_staylength.png)
+
+### Stay Length by Education
+![Education vs Stay Length](visuals/education_vs_staylength.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](visuals/correlation_heatmap.png)
 ## Modeling Approach
 I built and compared two regression models to estimate stay length:
 - Linear Regression
